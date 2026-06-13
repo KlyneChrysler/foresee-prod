@@ -1,12 +1,6 @@
-# at the age of ai
+# what is foresee
 
-we should accept that we are now in the agentic ai era.
-
-it’s no longer about whether we still know how to code manually, but how we build with both human engineering judgment and autonomous systems working together.
-
-i built this app using go and typescript, combining agentic ai with proper software engineering practices, and it turned out really well.
-
-this platform is designed for agricultural traders such as farmers, buyers, and enterprises who want to connect online, see what they have available, and take action on what they want to do with their crops.
+foresee connects filipino farmers and buyers through a live map of crop supply. farmers post what they are harvesting, buyers see available supply in real time and reach out directly, and the platform steers commercial demand toward high-yield areas. no middlemen, just fresh supply meeting real demand.
 
 ## try it out
 
@@ -23,7 +17,6 @@ after opening the app, this is what you will see upfront:
 ## contributing
 
 if you are interested in contributing to the app, feel free to message me.  
-if you need assistance on how to use the app, you can also contact me.
 
 ## closing
 
